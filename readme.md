@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pablodixs
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning Javascript, Flutter e React Native
+- 🌱 I’m currently learning Javascript, Flutter and React Native
