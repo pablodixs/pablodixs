@@ -1,25 +1,34 @@
-### hey, I'm @pablodixs 🖖
+![logo](https://user-images.githubusercontent.com/90719668/173419281-0b768916-11a9-41ec-b73b-388b2fde32fd.svg)
+
+## hey there, I'm @pablodixs 🖖😜
+- 👨‍💻 Software Engineering Student
+- 📍 Based in Brasília, Brasil
 
 #### my social medias
 <a href="https://www.linkedin.com/in/pablodixs/">
-  <image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <image src="https://user-images.githubusercontent.com/90719668/173420147-14fcfb3d-02ae-4c17-9543-d506a5485e3c.svg"/>
 </a>
 
 <a href="https://www.twitter.com/pablodixs/">
-  <image src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <image src="https://user-images.githubusercontent.com/90719668/173419820-82cd1744-e88e-45f6-acf5-83e0d26b8de6.svg"/>
 </a>
 
 <a href="https://www.behance.net/pablodixs/">
-  <image src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>
+  <image src="https://user-images.githubusercontent.com/90719668/173420146-d5564f5d-98e9-4d17-bcab-6af8316a4058.svg"/>
 </a>
 
 #
 
-#### working with
-<image src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></image>
-<image src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></image>
-<image src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></image>
+### tools 'n technologies
+![figma](https://user-images.githubusercontent.com/90719668/173422129-f8c76d08-964f-40e0-be8f-3b2b8532ee89.svg)
+
 #### learning
-<image src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></image>
-<image src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></image>
-<image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></image>
+![Group 10](https://user-images.githubusercontent.com/90719668/173422130-a666e78e-0be2-42e2-92af-ce057d064c20.svg)
+
+![html](https://user-images.githubusercontent.com/90719668/173422134-c200491d-1685-4e1c-ae62-85c615804b04.svg)
+
+![js](https://user-images.githubusercontent.com/90719668/173422137-a0b05703-3b0b-4e5a-8b37-8368fd3a608e.svg)
+
+<image width="100%" src="https://user-images.githubusercontent.com/90719668/173426401-7399aa6b-97e8-4c1e-9575-6c31d9a8bfc8.svg"/>
+
+<a href="https://github.com/pablodixs"><image width="120px" src="https://user-images.githubusercontent.com/90719668/173426412-f80ebfce-0f34-4236-86b9-adf43160190a.svg"/></a>
