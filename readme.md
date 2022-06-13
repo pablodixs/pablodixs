@@ -20,13 +20,13 @@
 #
 
 ### tools 'n technologies
-![figma](https://user-images.githubusercontent.com/90719668/173422129-f8c76d08-964f-40e0-be8f-3b2b8532ee89.svg)
+![figma](https://user-images.githubusercontent.com/90719668/173448313-afc692ce-7db3-4d45-8c21-addcaf747fc2.svg)
 
 #### learning
-![Group 10](https://user-images.githubusercontent.com/90719668/173422130-a666e78e-0be2-42e2-92af-ce057d064c20.svg) &nbsp;&nbsp; 
-![html](https://user-images.githubusercontent.com/90719668/173422134-c200491d-1685-4e1c-ae62-85c615804b04.svg) &nbsp;&nbsp;
-![js](https://user-images.githubusercontent.com/90719668/173422137-a0b05703-3b0b-4e5a-8b37-8368fd3a608e.svg)
+![Group 10](https://user-images.githubusercontent.com/90719668/173448301-85824d1a-b363-4a87-8a59-3f6d8b351140.svg) &nbsp;&nbsp; 
+![html](https://user-images.githubusercontent.com/90719668/173448302-73e33172-34a1-4901-8f8a-49221c7e89f7.svg) &nbsp;&nbsp;
+![js](https://user-images.githubusercontent.com/90719668/173448305-33dd0cfb-9467-4dc6-83f1-a8a6175f0447.svg)
 
 <image width="100%" src="https://user-images.githubusercontent.com/90719668/173433900-d00eb4ac-0495-4923-b411-72a18d45a502.svg"/>
 
-<a href="https://github.com/pablodixs"><image width="120px" src="https://user-images.githubusercontent.com/90719668/173426412-f80ebfce-0f34-4236-86b9-adf43160190a.svg"/></a>
+<a href="https://github.com/pablodixs"><image width="120px" src="https://user-images.githubusercontent.com/90719668/173448310-59ba09e1-a27c-4b48-a03c-779c1d1d7f33.svg"/></a>
