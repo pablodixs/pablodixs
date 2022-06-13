@@ -1,7 +1,7 @@
-![logo](https://user-images.githubusercontent.com/90719668/173419281-0b768916-11a9-41ec-b73b-388b2fde32fd.svg)
+<image width="100%" src="https://user-images.githubusercontent.com/90719668/173433901-62313e6f-9129-4977-a46a-db6285b664de.svg"/>
 
 ## hey there, I'm @pablodixs 🖖😜
-- 👨‍💻 Software Engineering Student
+- 👨‍💻 Software Engineering Student at UCB
 - 📍 Based in Brasília, Brasil
 
 #### my social medias
@@ -29,6 +29,6 @@
 
 ![js](https://user-images.githubusercontent.com/90719668/173422137-a0b05703-3b0b-4e5a-8b37-8368fd3a608e.svg)
 
-<image width="100%" src="https://user-images.githubusercontent.com/90719668/173426401-7399aa6b-97e8-4c1e-9575-6c31d9a8bfc8.svg"/>
+<image width="100%" src="https://user-images.githubusercontent.com/90719668/173433900-d00eb4ac-0495-4923-b411-72a18d45a502.svg"/>
 
 <a href="https://github.com/pablodixs"><image width="120px" src="https://user-images.githubusercontent.com/90719668/173426412-f80ebfce-0f34-4236-86b9-adf43160190a.svg"/></a>
