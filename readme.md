@@ -1,5 +1,3 @@
-<image width="100%" src="https://user-images.githubusercontent.com/90719668/173433901-62313e6f-9129-4977-a46a-db6285b664de.svg"/>
-
 ## hey there, I'm @pablodixs 🖖😜
 - 👨‍💻 Software Engineering Student at UCB
 - 📍 Based in Brasília, Brasil
