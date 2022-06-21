@@ -1,6 +1,7 @@
 ## hey there, I'm @pablodixs 🖖😜
 - 👨‍💻 Software Engineering Student at UCB
-- 📍 Based in Brasília, Brasil
+- 📚 Front-end Development Student at SENAI
+- 📍 Based in Brasília, Brazil
 
 #### my social medias
 <a href="https://www.linkedin.com/in/pablodixs/">
