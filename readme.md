@@ -1,5 +1,7 @@
 ## hey there, I'm @pablodixs 🖖😜
-👨‍💻 Software Engineering Student at UCB and Front-end Developer
+🖥 Front-end Developer and UI Designer
+
+👨‍💻 Software Engineering Student at UCB
 
 📍 Based in Brasília, Brazil
 
