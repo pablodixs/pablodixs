@@ -1,5 +1,5 @@
 ## it's me, hi! I'm @pablodixs 🖖😜
-🖥 Front-end Developer and UI Designer
+🖥 Full Stack Developer and UI Designer
 
 👨‍💻 Software Engineering Student at UCB (Universidade Católica de Brasília)
 
