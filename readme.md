@@ -21,4 +21,4 @@
 
 <image width="100%" src="https://user-images.githubusercontent.com/90719668/173433900-d00eb4ac-0495-4923-b411-72a18d45a502.svg"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodixs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodixs&layout=compact&size_weight=0.5&count_weight=0.5)
