@@ -7,6 +7,7 @@
 
 <image width="100%" src="https://user-images.githubusercontent.com/90719668/173433900-d00eb4ac-0495-4923-b411-72a18d45a502.svg"/>
 
+### tools and technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
