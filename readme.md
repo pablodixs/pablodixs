@@ -5,7 +5,7 @@
 
 📍 Based in Brasília, Brazil
 
-Building [Healtie](https://healtie.app), Neybor and Farmaflow.
+Building [Healtie](https://healtie.app), [Neybor](https://github.com/pablodixs/neybor.web) and Farmaflow.
 
 <image width="100%" src="https://user-images.githubusercontent.com/90719668/173433900-d00eb4ac-0495-4923-b411-72a18d45a502.svg"/>
 
