@@ -5,6 +5,8 @@
 
 📍 Based in Brasília, Brazil
 
+Building [Healtie](https://healtie.app) and some stuff.
+
 <image width="100%" src="https://user-images.githubusercontent.com/90719668/173433900-d00eb4ac-0495-4923-b411-72a18d45a502.svg"/>
 
 ### tools and technologies
